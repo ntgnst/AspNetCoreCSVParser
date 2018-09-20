@@ -2,7 +2,8 @@
 
 namespace AspNetCoreCSVParser
 {
-    public class Class1
+    public class Test
     {
+       
     }
 }
